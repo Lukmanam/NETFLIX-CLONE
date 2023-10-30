@@ -1,0 +1,22 @@
+.navbar{
+    background-color:transparent;
+    position: fixed;
+    height: 30px;
+    top: 0;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between; 
+
+}
+
+.logo{
+    position: fixed;
+    left: 20px;
+    width: 80px;
+}
+.avatar{
+    position: fixed;
+    right: 20px;
+    width: 30px;
+}
